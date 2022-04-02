@@ -12,16 +12,15 @@ https://evea.uh.cu/
 https://cursos.uo.edu.cu/
 https://eva.uo.edu.cu/
 
-⚙️Usuarios Soporte⚙️
-@developer01dev
-@shapingdev
+⚙️Usuario Soporte⚙️
+@ApteRiv
 ———————————————-——-
 ⚙️Spoporte De Urls⚙️
 ———————————————-——-
 apkpure
 mega (Archivos y Carpetas)
 mediafire (Archivos)
-Youtube (Nota: Descargas un poco lentas)
+
 
 -Para generar un enlace de un archivo de telegram reenvie el archivo a @tg_file_link_bot y le respondra con un mensaje de varios botons, deje apretado el primer boton y copie el enlace.
 
